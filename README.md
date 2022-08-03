@@ -1,7 +1,6 @@
 # package Jalali-Django
 Jalali Calendar for Django 
 
----
 ## instructions :
 ###  Introduce the app to the main settings
     INSTALLED_APPS = [
@@ -9,8 +8,7 @@ Jalali Calendar for Django
                        'extensions',
                      ]
                      
----
-## Add the function to the desired module :
+### Add the function to the desired module :
  `from extensions.utils import django_PersianJalali_Converter`
  
  Introduce the following code to the desired class in the app folder and the module file.
@@ -18,3 +16,6 @@ Jalali Calendar for Django
       def Jalali(self):
              return django_PersianJalali_Converter(self.datePush)
              Jalali.short_description = "  زمان انتشار "
+---
+
+- And you can call the function in the admin file section
