@@ -1,5 +1,4 @@
 '''
-     Programmer Saeed Jeddi
      websit : saeedjeddi.ir | email : saeedjeddimail@gmail.com 
 '''
 #------------------------------------------------------------------------------------------
