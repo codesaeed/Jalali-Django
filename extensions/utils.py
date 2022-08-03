@@ -1,20 +1,6 @@
 '''
-#    /** Programmer Saeed Jeddi
-#       | websit : saeedjeddi.ir | email : saeedjeddimail@gmail.com **/
-# --------------------------------------------------------------------------------------------
-# instructions :
-#    Introduce the app to the main settings
-#   // INSTALLED_APPS = [
-#                        #add extensions PersianJalali
-#                        'extensions',
-# ]
-#--------------------------------------------------------------------------------------------
-# Add the function to the desired module
-#         from extensions.utils import django_PersianJalali_Converter
-# Introduce the following code to the desired class in the app folder and the module file.
-#     def PersianJalaliConverter(self):
-#         return django_PersianJalali_Converter(self.publish)
-#     PersianJalaliConverter.short_description = "  Publication time in Persian "
+     Programmer Saeed Jeddi
+     websit : saeedjeddi.ir | email : saeedjeddimail@gmail.com 
 '''
 #------------------------------------------------------------------------------------------
 from . import PersianJalali
