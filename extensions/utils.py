@@ -1,6 +1,6 @@
 '''
 #    /** Programmer Saeed Jeddi
-#        tel : +989339737180 | websit : saeedjeddi.ir | email : saeedjeddimail@gmail.com **/
+#       | websit : saeedjeddi.ir | email : saeedjeddimail@gmail.com **/
 # --------------------------------------------------------------------------------------------
 # instructions :
 #    Introduce the app to the main settings
